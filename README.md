@@ -48,7 +48,7 @@ PDF.
 * PDF (max 3-4 pages!) with brief explanation of steps taken and the summary of results
 
 ### Please use only Qlik or Datastudio
-* Including some visualization with tableau or powerBI in form or views or reports is a big plus
+* Including some visualization with this tools is a big plus.
 
 
 ### Good luck and we are very excited to see your solutions! 
